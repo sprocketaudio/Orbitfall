@@ -1,0 +1,5 @@
+APIVersion: 2
+minimumSupportedBuild: 720697
+version: 0.1.0
+requiredDlcIds:
+  - EXPANSION1_ID

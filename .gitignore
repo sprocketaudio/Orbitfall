@@ -1,0 +1,37 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+dist/
+artifacts/
+
+# .NET and NuGet
+*.nupkg
+*.snupkg
+packages/
+*.user
+*.rsuser
+*.suo
+*.cache
+*.pdb
+
+# IDE settings
+.vs/
+.vscode/
+.idea/
+*.iml
+
+# Unity-style project artifacts
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
